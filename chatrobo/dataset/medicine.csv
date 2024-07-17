@@ -1,0 +1,50 @@
+brand id,brand name,type,slug,dosage form,generic,strength,manufacturer,package container,Package Size
+4077,A-Cold,allopathic,a-coldsyrup4-mg5-ml,Syrup,Bromhexine Hydrochloride,4 mg/5 ml,ACME Laboratories Ltd.,100 ml bottle: ৳ 40.12,
+4006,A-Cof,allopathic,a-cofsyrup10-mg30-mg125-mg5-ml,Syrup,Dextromethorphan + Pseudoephedrine + Triprolidine,(10 mg+30 mg+1.25 mg)/5 ml,ACME Laboratories Ltd.,100 ml bottle: ৳ 100.00,
+6174,A-Clox,allopathic,a-cloxinjection500-mgvial,Injection,Cloxacillin Sodium,500 mg/vial,ACME Laboratories Ltd.,"500 mg vial: ৳ 28.43,(5's pack: ৳ 142.15),",(5's pack: ৳ 142.15)
+6173,A-Clox,allopathic,a-cloxinjection250-mgvial,Injection,Cloxacillin Sodium,250 mg/vial,ACME Laboratories Ltd.,"250 mg vial: ৳ 20.00,(5's pack: ৳ 100.00),",(5's pack: ৳ 100.00)
+6172,A-Clox,allopathic,a-cloxpowder-for-suspension125-mg5-ml,Powder for Suspension,Cloxacillin Sodium,125 mg/5 ml,ACME Laboratories Ltd.,100 ml bottle: ৳ 45.00,
+6171,A-Clox,allopathic,a-cloxcapsule500-mg,Capsule,Cloxacillin Sodium,500 mg,ACME Laboratories Ltd.,"Unit Price: ৳ 5.98,(100's pack: ৳ 598.00),",(100's pack: ৳ 598.00)
+14006,A-Care,allopathic,a-caretablet6-mg200-mg50-mg,Tablet,Betacarotene + Vitamin C + Vitamin E,6 mg+200 mg+50 mg,Asiatic Laboratories Ltd.,"Unit Price: ৳ 2.50,(20's pack: ৳ 50.00),",(20's pack: ৳ 50.00)
+3039,A-Card,allopathic,a-cardtablet20-mg,Tablet,Isosorbide Mononitrate,20 mg,ACME Laboratories Ltd.,"Unit Price: ৳ 1.43,(100's pack: ৳ 143.00),",(100's pack: ৳ 143.00)
+15483,A-Calm,allopathic,a-calmtablet50-mg,Tablet,Tolperisone Hydrochloride,50 mg,ACME Laboratories Ltd.,"Unit Price: ৳ 6.00,(50's pack: ৳ 300.00),",(50's pack: ৳ 300.00)
+14480,A-Cal DX,allopathic,a-cal-dxtablet500-mg400-iu,Tablet,Calcium Carbonate [Elemental source] + Vitamin D3,500 mg+400 IU,ACME Laboratories Ltd.,"Unit Price: ৳ 7.50,(30's pack: ৳ 225.00),",(30's pack: ৳ 225.00)
+14399,A-Cal D,allopathic,a-cal-dtablet500-mg200-iu,Tablet,Calcium Carbonate [Elemental source] + Vitamin D3,500 mg+200 IU,ACME Laboratories Ltd.,"Unit Price: ৳ 6.50,(15's pack: ৳ 97.50),,Unit Price: ৳ 6.50,(30's pack: ৳ 195.00),","(15's pack: ৳ 97.50),(30's pack: ৳ 195.00)"
+14264,A-Cal,allopathic,a-caltablet500-mg,Tablet,Calcium Carbonate,500 mg,ACME Laboratories Ltd.,"Unit Price: ৳ 5.00,(100's pack: ৳ 500.00),",(100's pack: ৳ 500.00)
+13582,A-B1,allopathic,a-b1tablet100-mg,Tablet,Thiamine Hydrochloride,100 mg,ACME Laboratories Ltd.,"Unit Price: ৳ 0.86,(100's pack: ৳ 86.00),",(100's pack: ৳ 86.00)
+25154,5X,allopathic,5xtablet30-mg,Tablet,Ulipristal Acetate [For emergency contraception],30 mg,Renata Limited,Unit Price: ৳ 200.00,
+105,5-Fluril,allopathic,5-fluriliv-injection-or-infusion25-mgml,IV Injection or Infusion,Fluorouracil,25 mg/ml,Techno Drugs Ltd.,"250 mg vial: ৳ 55.00,500 mg vial: ৳ 95.00",
+27661,Arubin,herbal,arubincapsule500-mg,Capsule,Nabayas Louha Herbal Haematinic,500 mg,Square Pharmaceuticals Ltd.,"Unit Price: ৳ 4.00,(30's pack: ৳ 120.00),",(30's pack: ৳ 120.00)
+29715,Arkid,herbal,arkidsyrup,Syrup,Aravindasav,,ACME Laboratories Ltd.,100 ml bottle: ৳ 70.00,
+29714,Arjunacard,herbal,arjunacardsyrup,Syrup,Arjunarista,,ACME Laboratories Ltd.,200 ml bottle: ৳ 90.00,
+30450,Apelin,herbal,apelinsyrup,Syrup,Malus sylvestris,,Hamdard Bangladesh,"100 ml bottle: ৳ 60.00,450 ml bottle: ৳ 200.00",
+29646,Antiligo,herbal,antiligocapsule,Capsule,Barsina,,Hamdard Bangladesh,"Unit Price: ৳ 3.00,(50's pack: ৳ 150.00),",(50's pack: ৳ 150.00)
+31923,Anseng,herbal,ansengcapsule500-mg,Capsule,Panax Ginseng,500 mg,Aristopharma Ltd.,"Unit Price: ৳ 20.00,(30's pack: ৳ 600.00),",(30's pack: ৳ 600.00)
+29754,Anjort,herbal,anjortcapsule300-mg,Capsule,St. John’s Wort,300 mg,Ibn Sina Pharmaceuticals Ltd.,"Unit Price: ৳ 4.33,(30's pack: ৳ 130.00),",(30's pack: ৳ 130.00)
+29712,Amlacid,herbal,amlacidsyrup,Syrup,Amalaki Rasayana,,ACME Laboratories Ltd.,"200 ml bottle: ৳ 80.00,450 ml bottle: ৳ 150.00",
+30288,Amlabery,herbal,amlaberysyrup,Syrup,Sharbat Amla,,Drug International Ltd.,450 ml bottle: ৳ 350.00,
+29661,Amla (Hair oil),herbal,amla-hair-oilscalp-solution166-ml33-ml5-ml,Scalp Solution,Emblic Myrobalan + Sesame,(1.66 ml+3.3 ml)/5 ml,Hamdard Bangladesh,130 ml bottle: ৳ 200.00,
+27660,AmCivit,herbal,amcivitsyrup303-ml012-gm5-ml,Syrup,Emblica officinalis + Piper longum,(3.03 ml+0.12 gm)/5 ml,Square Pharmaceuticals Ltd.,100 ml bottle: ৳ 60.00,
+29645,Alvasin,herbal,alvasinsyrup,Syrup,Ejaz,,Hamdard Bangladesh,"100 ml bottle: ৳ 70.00,225 ml bottle: ৳ 140.00",
+28006,Altiver,herbal,altivercapsule60-mg,Capsule,Ginkgo Biloba,60 mg,Kemiko Pharmaceuticals Ltd.,"Unit Price: ৳ 22.00,(20's pack: ৳ 440.00),",(20's pack: ৳ 440.00)
+29711,Alovera,herbal,aloveratablet345-mg,Tablet,Aloe indica+ Hyoscyamus niger + Piper nigrum,345 mg,ACME Laboratories Ltd.,"Unit Price: ৳ 8.00,(30's pack: ৳ 240.00),",(30's pack: ৳ 240.00)
+29644,Alkuli,herbal,alkulisyrup,Syrup,Buzuri,,Hamdard Bangladesh,"100 ml bottle: ৳ 50.00,225 ml bottle: ৳ 90.00,450 ml bottle: ৳ 140.00",
+29643,Alisa,herbal,alisatablet,Tablet,Garlitab,,Hamdard Bangladesh,"Unit Price: ৳ 2.00,(50's pack: ৳ 100.00),",(50's pack: ৳ 100.00)
+29868,Aliksir,herbal,aliksircapsule500-mg,Capsule,Nigella Sativa [Black Seed Oil],500 mg,Renata Limited,"Unit Price: ৳ 12.00,(30's pack: ৳ 360.00),",(30's pack: ৳ 360.00)
+13947,Alfa-E,herbal,alfa-echewable-tablet200-mg,Chewable Tablet,Vitamin E [Alpha Tocopherol Acetate],200 mg,Aristopharma Ltd.,"Unit Price: ৳ 5.00,(15's pack: ৳ 75.00),",(15's pack: ৳ 75.00)
+29642,Agerd,herbal,agerdcapsule,Capsule,Tabkheer,,Hamdard Bangladesh,"Unit Price: ৳ 3.00,(50's pack: ৳ 150.00),",(50's pack: ৳ 150.00)
+29753,Afrodic,herbal,afrodicsyrup,Syrup,Herbal cough syrup [Tulsi],,Ibn Sina Pharmaceuticals Ltd.,"100 ml bottle: ৳ 50.00,200 ml bottle: ৳ 80.00",
+29752,Afrodic,herbal,afrodictablet,Tablet,Ambar Momiyaee,,Ibn Sina Pharmaceuticals Ltd.,"Unit Price: ৳ 15.00,(10's pack: ৳ 150.00),",(10's pack: ৳ 150.00)
+27659,Adovas,herbal,adovassyrup,Syrup,Herbal cough syrup [Adhatoda Vasica],,Square Pharmaceuticals Ltd.,"100 ml bottle: ৳ 70.00,200 ml bottle: ৳ 105.00",
+29562,Adolef,herbal,adolefsyrup,Syrup,Herbal cough syrup [Adhatoda Vasica],,Opsonin Pharma Ltd.,"100 ml bottle: ৳ 65.00,200 ml bottle: ৳ 105.00",
+30871,Acteria,herbal,acteriaoral-powder4-billionsachet,Oral Powder,Probiotic Combination [4 Billion],4 billion/sachet,Radiant Nutraceuticals Ltd.,"4 billion sachet: ৳ 42.00,(20's pack: ৳ 840.00),",(20's pack: ৳ 840.00)
+27602,Acteria,herbal,acteriacapsule4-billion,Capsule,Probiotic Combination [4 Billion],4 billion,Radiant Nutraceuticals Ltd.,"Unit Price: ৳ 40.00,(20's pack: ৳ 800.00),",(20's pack: ৳ 800.00)
+29710,Acmina,herbal,acminasyrup,Syrup,"Mustakarista [Cyperus, Zingiber, Piper nigrum]",,ACME Laboratories Ltd.,200 ml bottle: ৳ 70.00,
+29709,Acme's Spirulina,herbal,acmes-spirulinacapsule450-mg,Capsule,Spirulina,450 mg,ACME Laboratories Ltd.,"Unit Price: ৳ 4.00,(30's pack: ৳ 120.00),",(30's pack: ৳ 120.00)
+29708,Acme's Chyabanprash,herbal,acmes-chyabanprashoral-suspension,Oral Suspension,Emblic Myrobalan + Aswagandha + Grape,,ACME Laboratories Ltd.,"100 gm container: ৳ 110.00,200 gm container: ৳ 200.00",
+29707,Acme's Basok,herbal,acmes-basoksyrup,Syrup,Herbal cough syrup [Vasakarista],,ACME Laboratories Ltd.,"100 ml bottle: ৳ 65.00,200 ml bottle: ৳ 100.00",
+29650,Centurin,herbal,centurincapsule250-mg,Capsule,Penitab,250 mg,Hamdard Bangladesh,"Unit Price: ৳ 4.40,(50's pack: ৳ 220.00),",(50's pack: ৳ 220.00)
+29648,Carmina,herbal,carminatablet,Tablet,Herbal gastric preparation,,Hamdard Bangladesh,"Unit Price: ৳ 1.42,(60's pack: ৳ 85.00),",(60's pack: ৳ 85.00)
+29649,Carmina,herbal,carminasyrup,Syrup,Herbal gastric preparation,,Hamdard Bangladesh,"100 ml bottle: ৳ 50.00,225 ml bottle: ৳ 85.00,450 ml bottle: ৳ 130.00",
+28872,Cardi Q,herbal,cardi-qcapsule50-mg,Capsule,Coenzyme Q10 [Ubidecarenone],50 mg,Square Pharmaceuticals Ltd.,"Unit Price: ৳ 12.00,(50's pack: ৳ 600.00),",(50's pack: ৳ 600.00)
+28873,Cardi Q,herbal,cardi-qcapsule100-mg,Capsule,Coenzyme Q10 [Ubidecarenone],100 mg,Square Pharmaceuticals Ltd.,"Unit Price: ৳ 20.00,(30's pack: ৳ 600.00),",(30's pack: ৳ 600.00)
